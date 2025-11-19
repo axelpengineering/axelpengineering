@@ -17,6 +17,6 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 - 🚲 Ghost Bike Intersection Warning Project
 
-Designed a solution to intersection violence at St.George and Bloor. Project uses memorial aspects, sound and visual cues to encourage vulnerable road users (pedestrians) to practice safer behaviours at intersections. Work was done as part of a design group for course work in APS112: Engineering Strategies and Practice II.
+  Designed a solution to intersection violence at St.George and Bloor. Project uses memorial aspects, sound and visual cues to encourage vulnerable road users (pedestrians) to practice safer behaviours at intersections. Work was done as part of a design group for course work in APS112: Engineering Strategies and Practice II.
 
 Check out my [resume](EngineeringMasterResume.docx) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
