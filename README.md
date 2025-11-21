@@ -35,7 +35,7 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 - ⚡️ [Joulemeter:](https://github.com/axelpengineering/Joulemeter-Project)
 
-    
+    Goal to create a joulemeter in conjuction with a few other group members. Process involved soldering, using breadboards and working with arduino IDE.
 
 
 Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
