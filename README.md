@@ -25,7 +25,7 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 - ⚙️ [Planetary Gear Box:](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project)
 
-  Designed as part of a team in MIE243: Mechanical Engineering Design I, We aimed to create at 12:1 speed reduction gearbox 3D printed with a maximum of 6 hours of print time. We opted for the bonus marks by making the input and output shafts colinear.
+  Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed to create at 12:1 speed reduction gearbox 3D printed with a maximum of 6 hours of print time. We opted for the bonus marks by making the input and output shafts colinear.
 
 
 
