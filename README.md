@@ -22,7 +22,8 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
   Designed, produced the CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on the end effector of the robotic arm for the Robots for Space Exploration rover. Done as design team work for Robots for Space Exploration.
 
--⚙️ [Planetary Gear Box](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project)
+- ⚙️ [Planetary Gear Box](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project)
+  Designed as part of a team in MIE243: Mechanical Engineering Design I, We aimed to create at 12:1 speed reduction gearbox 3D printed with a maximum of 6 hours of print time. We opted for the bonus marks by making the input and output shafts colinear.
 
 
 
