@@ -11,7 +11,7 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
   Designed and produced the CAD models for a robotic arm targeted at hobbyists to acheive repeatable programmable movements for camera shots. Work was done as part of a design group for course work in MIE243: Mechanical Engineering Design I.
 
-- 📟 [Raspberry Pi 5 Casing](https://github.com/axelpengineering/Raspberry-Pi-5-Casing/edit/main)
+- 📟 [Raspberry Pi 5 Casing](https://github.com/axelpengineering/Raspberry-Pi-5-Casing/blob/main/README.md)
 
   Designed, produced the CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on the end effector of the robotic arm for the Robots for Space Exploration rover. Done as design team work for Robots for Space Exploration.
 
