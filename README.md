@@ -3,7 +3,7 @@
 I'm a Mechanical Engineering student at the University of Toronto, minoring in Mechatronics.
 
 ## 🚀 Featured Projects
-*Machine Learning**
+*Machine Learning*
 - 🧠 [Pedestrian Attention Recognition](https://github.com/axelpengineering/Pedestrian-Attention-Recognition-Deep-Learning-Project)  
   Built a deep learning model using PyTorch to classify pedestrian attention from real-world images. Focused on CNN architecture, image preprocessing, and training pipeline optimization. Work was done as part of a design group for course work in APS360: Fundamentals of Deep Learning.
 
