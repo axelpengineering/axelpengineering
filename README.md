@@ -22,7 +22,7 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
   Designed, produced the CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on the end effector of the robotic arm for the Robots for Space Exploration rover. Done as design team work for Robots for Space Exploration.
 
--⚙️ [Planetary Gear Box](https://github.com/axelpengineering/Raspberry-Pi-5-Casing/blob/main/README.md)
+-⚙️ [Planetary Gear Box](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project)
 
 
 
