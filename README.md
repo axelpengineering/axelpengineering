@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Mechanical Engineering student at the University of Toronto, minoring in Mechatronics. This portfolio outlines the steps that I have taken to reach my desired career path to work in the Robotics industry. Therefore, I have gathered many technical skills through projects showcased here, in the Machine Learning, Design, Mechanical, Electrical and Mechatronics fields.
+I'm a Mechanical Engineering student at the University of Toronto, minoring in Mechatronics. This portfolio outlines the steps that I have taken to reach my desired career path to work in the Robotics industry. Therefore, I have gathered many technical skills through projects showcased here in relation to Robotics, in the Machine Learning, Design, Mechanical, Electrical and Mechatronics fields.
 
 ## 🚀 Featured Projects
 *Machine Learning*
