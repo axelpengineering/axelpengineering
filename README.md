@@ -39,3 +39,4 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 
 Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
+Contact me at:📩 axel.pena@mail.utoronto.ca 📞 +1 (647)-569-9921
