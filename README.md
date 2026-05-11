@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Axel
 
-I'm a Mechanical Engineering student at the University of Toronto, minoring in Mechatronics. This portfolio outlines the steps that I have taken to reach my desired career path to work in the Robotics industry. Therefore, I have gathered many technical skills through projects showcased here in relation to Robotics, in the Machine Learning, Design, Mechanical, Electrical and Mechatronics fields.
+Mechanical Engineering student at the University of Toronto pursuing a Robotics & Mechatronics minor. I’m building experience across robotics, machine learning, CAD, embedded systems, and mechanical design through coursework, design teams, and independent technical projects.
+
+This GitHub highlights selected projects in computer vision, robotic systems, mechanical design, and mechatronics.
 
 ## 🚀 Featured Projects
 *Machine Learning*
@@ -12,7 +14,7 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 - 🦾 [Cinematography Robot Arm:](https://github.com/axelpengineering/Cinematography-Robot-Arm/tree/main)
 
-  Designed and produced the CAD models for a robotic arm targeted at hobbyists to acheive repeatable programmable movements for camera shots. Work was done as part of a design group for course work in MIE243: Mechanical Engineering Design I.
+  Designed and produced the CAD models for a robotic arm targeted at hobbyists to achieve repeatable programmable movements for camera shots. Work was done as part of a design group for course work in MIE243: Mechanical Engineering Design I.
 - 🚲 [Ghost Bike Vulnerable Road User Warning Design Project:](https://github.com/axelpengineering/Ghost-Bike-Vulnerable-Road-User-Warning-Design-Project)
 
   Designed a solution to intersection violence at St.George and Bloor. Project uses memorial aspects, sound and visual cues to encourage vulnerable road users (pedestrians) to practice safer behaviours at intersections. Work was done as part of a design group for course work in APS112: Engineering Strategies and Practice II.
@@ -31,12 +33,16 @@ I'm a Mechanical Engineering student at the University of Toronto, minoring in M
 
 - 🖥️ [Motor Communication with CAN, ROS and Ubuntu:](https://github.com/axelpengineering/Motor-Communication-With-CAN-ROS-Ubuntu)
 
-    Goal of implementing velocity control capabilities for a SparkMax motor for a robot arm in Robots for Space Exploration. Learned how CAN communication works, learned how to use the windows terminal, wsl, ubuntu and ROS 1 to acheive this. First determined PID values which enabled the motor to conntrol velocity. This enabled me to code in python to make use of ROS to control the motor velocity. Finally, learned how to implement my code into its own environmnet within the team's github repositories.
+    Goal of implementing velocity control capabilities for a SparkMax motor for a robot arm in Robots for Space Exploration. Learned how CAN communication works, learned how to use the windows terminal, wsl, ubuntu and ROS 1 to acheive this. First determined PID values which enabled the motor to control velocity. This enabled me to code in python to make use of ROS to control the motor velocity. Finally, learned how to implement my code into its own environment within the team's github repositories.
 
 - ⚡️ [Joulemeter:](https://github.com/axelpengineering/Joulemeter-Project)
 
-    Goal to create a joulemeter in conjuction with a few other group members. Process involved soldering, using breadboards and working with arduino IDE.
+    Goal to create a joulemeter in conjunction with a few other group members. Process involved soldering, using breadboards and working with arduino IDE.
 
+*Structural Fabrication*
+- 📦 PPT-Composite-Box-Design
+
+  Mechanical design and fabrication workflow for a lightweight composite box enclosure designed for waterjet manufacturing and composite layup.
 
 Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
-Contact me at: 📩 axel.pena@mail.utoronto.ca 📞 +1 (647)-569-9921
+Contact me at: 📩 axel.pena@mail.utoronto.ca
