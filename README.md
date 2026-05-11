@@ -40,7 +40,7 @@ This GitHub highlights selected projects in computer vision, robotic systems, me
     Goal to create a joulemeter in conjunction with a few other group members. Process involved soldering, using breadboards and working with arduino IDE.
 
 *Structural Fabrication*
-- 📦 PPT-Composite-Box-Design
+- 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
 
   Mechanical design and fabrication workflow for a lightweight composite box enclosure designed for waterjet manufacturing and composite layup.
 
