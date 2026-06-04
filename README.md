@@ -35,9 +35,6 @@ This GitHub highlights selected projects in computer vision, robotic systems, me
 
     Goal of implementing velocity control capabilities for a SparkMax motor for a robot arm in Robots for Space Exploration. Learned how CAN communication works, learned how to use the windows terminal, wsl, ubuntu and ROS 1 to acheive this. First determined PID values which enabled the motor to control velocity. This enabled me to code in python to make use of ROS to control the motor velocity. Finally, learned how to implement my code into its own environment within the team's github repositories.
 
-- ⚡️ [Joulemeter:](https://github.com/axelpengineering/Joulemeter-Project)
-
-    Goal to create a joulemeter in conjunction with a few other group members. Process involved soldering, using breadboards and working with arduino IDE.
 
 *Structural Fabrication*
 - 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
