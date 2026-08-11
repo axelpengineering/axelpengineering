@@ -1,182 +1,50 @@
-# ⚡ SD Card Audio Player PCB
+# Hi, I'm Axel
 
-Custom-designed ESP32-based audio playback system capable of playing audio tracks stored on an SD card through physical user button inputs.
+Mechanical Engineering student at the University of Toronto pursuing a Robotics & Mechatronics minor. I’m building experience across robotics, machine learning, CAD, embedded systems, and mechanical design through coursework, design teams, and independent technical projects.
 
----
+This GitHub highlights selected projects in computer vision, robotic systems, mechanical design, and mechatronics.
 
-## 📐 Overview
+## 🚀 Featured Projects
+*Machine Learning*
+- 🧠 [Pedestrian Attention Recognition:](https://github.com/axelpengineering/Pedestrian-Attention-Recognition-Deep-Learning-Project)  
 
-This project involved the complete development of an embedded audio playback system, progressing from breadboard prototyping to a custom-designed and physically assembled PCB.
+  Built a deep learning model using PyTorch to classify pedestrian attention from real-world images. Focused on CNN architecture, image preprocessing, and training pipeline optimization. Work was done as part of a design group for course work in APS360: Fundamentals of Deep Learning.
 
-An ESP32 was programmed in C++ using the Arduino IDE to process physical button inputs and control SD-card-based audio playback. The electrical circuit was first designed and tested on a breadboard before being transferred into a custom PCB using KiCad.
+*Design*
 
-The final PCB was manufactured, manually soldered, assembled, and tested as a complete embedded system.
+- 🦾 [Cinematography Robot Arm:](https://github.com/axelpengineering/Cinematography-Robot-Arm/tree/main)
 
-### Key Objectives
+  Designed and produced the CAD models for a robotic arm targeted at hobbyists to achieve repeatable programmable movements for camera shots. Work was done as part of a design group for course work in MIE243: Mechanical Engineering Design I.
+- 🚲 [Ghost Bike Vulnerable Road User Warning Design Project:](https://github.com/axelpengineering/Ghost-Bike-Vulnerable-Road-User-Warning-Design-Project)
 
-- Design a functional SD-card-based audio playback circuit
-- Breadboard prototype and validate the circuit
-- Program an ESP32 to control system behaviour
-- Process user inputs through physical push buttons
-- Implement audio playback using C++ and the Arduino IDE
-- Develop a complete electrical schematic in KiCad
-- Design and route a custom PCB
-- Assemble and solder the manufactured PCB
-- Test and debug the completed hardware and software
+  Designed a solution to intersection violence at St.George and Bloor. Project uses memorial aspects, sound and visual cues to encourage vulnerable road users (pedestrians) to practice safer behaviours at intersections. Work was done as part of a design group for course work in APS112: Engineering Strategies and Practice II.
 
----
+*Mechanical*
 
-## 🛠️ Software & Tools
+- 📟 [Raspberry Pi 5 Casing:](https://github.com/axelpengineering/Raspberry-Pi-5-Casing/blob/main/README.md)
 
-- KiCad
-- Arduino IDE
-- C++
-- ESP32
-- Breadboard prototyping
-- Soldering equipment
-- Digital multimeter
-- Electronic components and wiring
+  Designed, produced the CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on the end effector of the robotic arm for the Robots for Space Exploration rover. Done as design team work for Robots for Space Exploration.
 
----
+- ⚙️ [Planetary Gear Box:](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project)
 
-## 🔌 Breadboard Prototyping
+  Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed to create at 12:1 speed reduction gearbox 3D printed with a maximum of 6 hours of print time. We opted for the bonus marks by making the input and output shafts colinear.
 
-The circuit was initially assembled and tested on a breadboard before committing the design to a PCB.
+*Mechatronics*
 
-This allowed the electrical connections, button inputs, ESP32 firmware, and audio playback functionality to be tested and debugged early in the development process.
+- 🖥️ [Motor Communication with CAN, ROS and Ubuntu:](https://github.com/axelpengineering/Motor-Communication-With-CAN-ROS-Ubuntu)
 
-<p align="center">
-  <img src="breadboard.JPEG" width="300" height="300">
-</p>
+    Goal of implementing velocity control capabilities for a SparkMax motor for a robot arm in Robots for Space Exploration. Learned how CAN communication works, learned how to use the windows terminal, wsl, ubuntu and ROS 1 to acheive this. First determined PID values which enabled the motor to control velocity. This enabled me to code in python to make use of ROS to control the motor velocity. Finally, learned how to implement my code into its own environment within the team's github repositories.
 
----
+*Electrical*
+- ⚡ [SD Card Cricuit]
+  Designed a circuit to play music tracks from an SD card controlled with a user inputted button. Later made my own PCB and assembled the circuit.
 
-## 💻 ESP32 Programming
 
-The ESP32 served as the primary controller for the system.
 
-Custom firmware was written in C++ using the Arduino IDE to:
+*Structural Fabrication*
+- 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
 
-- Read physical push-button inputs
-- Process user commands
-- Control audio playback
-- Select audio tracks stored on the SD card
-- Interface with the playback hardware
-- Coordinate overall system behaviour
-- Support hardware testing and debugging
+  Mechanical design and fabrication workflow for a lightweight composite box enclosure designed for waterjet manufacturing and composite layup.
 
----
-
-## 🧾 PCB Schematic
-
-Once the breadboard prototype was validated, the circuit was recreated as an electrical schematic in KiCad.
-
-The schematic defined the electrical connections between the ESP32, audio playback components, user inputs, power connections, and supporting circuitry.
-
-<p align="center">
-  <img src="pcb_schematic.PNG" width="400" height="400">
-</p>
-
----
-
-## 🖥️ PCB Design
-
-The completed schematic was converted into a custom PCB layout in KiCad.
-
-The PCB design process included:
-
-- Assigning component footprints
-- Component placement
-- Routing signal traces
-- Routing power connections
-- Organizing board geometry
-- Checking electrical connectivity
-- Performing design-rule checks
-- Preparing the board for manufacturing
-
-<p align="center">
-  <img src="pcb_design.PNG" width="400" height="400">
-</p>
-
----
-
-## 🔧 PCB Assembly & Soldering
-
-After the PCB was manufactured, the electrical components were manually installed and soldered onto the board.
-
-The assembled board was then inspected, tested for electrical continuity, and connected to the ESP32 and other system components.
-
-<p align="center">
-  <img src="soldering.JPG" width="300" height="300">
-</p>
-
----
-
-## ⚡ Completed PCB
-
-The finished PCB provided a compact and permanent implementation of the original breadboard prototype.
-
-The final system combined the custom PCB, ESP32 firmware, physical user controls, and SD-card-based audio playback into a functional embedded system.
-
-<p align="center">
-  <img src="completed_pcb.JPG" width="350" height="350">
-</p>
-
----
-
-## 🔄 Development Process
-
-The project followed an end-to-end electronics development workflow:
-
-1. Circuit concept and component selection
-2. Breadboard prototyping
-3. ESP32 firmware development
-4. Button input integration
-5. SD-card audio playback testing
-6. KiCad schematic development
-7. PCB component placement
-8. PCB trace routing
-9. Design-rule verification
-10. PCB manufacturing
-11. Manual soldering and assembly
-12. Hardware/software debugging
-13. Final system testing
-
----
-
-## 🧠 Engineering Skills Demonstrated
-
-- Embedded systems development
-- ESP32 programming
-- C++ / Arduino
-- Circuit design
-- Breadboard prototyping
-- PCB schematic capture
-- PCB layout and routing
-- KiCad
-- Electronic prototyping
-- Soldering
-- Hardware/software integration
-- Electrical testing
-- System debugging
-- Design iteration
-
----
-
-## ✅ Project Outcome
-
-The project successfully progressed from an initial breadboard prototype to a custom-designed and physically assembled embedded system.
-
-Developing the system required integrating circuit design, ESP32 programming, PCB schematic development, board layout, manufacturing, soldering, and hardware debugging. The completed project demonstrated the full electronics development process from initial prototyping through final hardware implementation.
-
----
-
-## 📁 Repository Contents
-
-| File / Folder | Description |
-| ------------- | ----------- |
-| `README.md` | Project overview and documentation |
-| `KiCad/` | KiCad schematic and PCB design files |
-| `Code/` | ESP32 firmware and Arduino code |
-| `Images/` | Project development and assembly images |
-| `Gerbers/` | PCB manufacturing files |
+Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
+Contact me at: 📩 axel.pena@mail.utoronto.ca
