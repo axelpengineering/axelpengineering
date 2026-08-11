@@ -37,7 +37,8 @@ This GitHub highlights selected projects in computer vision, robotic systems, me
 
 *Electrical*
 - ⚡ [SD Card Cricuit]
-  Designed a circuit to play music tracks from an SD card controlled with a user inputted button. Later made my own PCB and assembled the circuit.
+
+  Designed and built a custom SD-card-based audio playback system using an ESP32, programmed in C++ through the Arduino IDE to process user button inputs and control audio playback. Developed the circuit schematic and PCB layout in KiCad, then assembled, soldered, and tested the completed board.
 
 
 
