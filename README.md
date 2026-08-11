@@ -36,7 +36,8 @@ This GitHub highlights selected projects in computer vision, robotic systems, me
     Goal of implementing velocity control capabilities for a SparkMax motor for a robot arm in Robots for Space Exploration. Learned how CAN communication works, learned how to use the windows terminal, wsl, ubuntu and ROS 1 to acheive this. First determined PID values which enabled the motor to control velocity. This enabled me to code in python to make use of ROS to control the motor velocity. Finally, learned how to implement my code into its own environment within the team's github repositories.
 
 *Electrical*
-- ⚡ [SD Card Cricuit](https://github.com/axelpengineering/SD-Card-Audio-Player-PCB)
+- ⚡ [SD Card Cricuit:](https://github.com/axelpengineering/SD-Card-Audio-Player-PCB)
+
   Designed a circuit to play music tracks from an SD card controlled with a user inputted button. Later made my own PCB and assembled the circuit.
 
 
