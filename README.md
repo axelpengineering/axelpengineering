@@ -46,7 +46,7 @@ The circuit was initially assembled and tested on a breadboard before committing
 This allowed the electrical connections, button inputs, ESP32 firmware, and audio playback functionality to be tested and debugged early in the development process.
 
 <p align="center">
-  <img src="breadboard.JPG" width="300" height="300">
+  <img src="breadboard.JPEG" width="300" height="300">
 </p>
 
 ---
