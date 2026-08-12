@@ -2,16 +2,14 @@
 
 Mechanical Engineering student at the University of Toronto pursuing a Robotics & Mechatronics minor. I’m building experience across robotics, machine learning, CAD, embedded systems, and mechanical design through coursework, design teams, and independent technical projects.
 
-This GitHub highlights selected projects in computer vision, robotic systems, mechanical design, and mechatronics.
+Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
+Contact me at: 📩 axel.pena@mail.utoronto.ca
 
 ## 🚀 Featured Projects
 *Composites, Structural-Fabrication*
 - 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
 
   Mechanical design and fabrication workflow for a lightweight composite box enclosure designed for waterjet manufacturing and composite layup.
-
-Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
-Contact me at: 📩 axel.pena@mail.utoronto.ca
 
 *Mechatronics*
 
