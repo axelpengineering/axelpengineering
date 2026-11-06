@@ -6,6 +6,17 @@ A documentation-led study exploring how topology optimization and design for add
 
 > **Project status:** Design-space modelling, multi-load-case structural setup, topology optimization and facet cleanup were documented. Final mass reduction, fatigue performance, manufacturability, and production approval are **not yet verified**; no final percentage weight saving is claimed.
 
+## Visual overview
+
+The two images below are the **same project graphics used in my engineering portfolio slides**, captured from the Gen 13 topology-optimization research notebook.
+
+| CATIA design space and mounting geometry | ANSYS topology-optimized output |
+| :---: | :---: |
+| ![CATIA LCA design space showing the mounting and bearing locations](images/catia-design-space.png) | ![ANSYS topology optimization result for the lower control arm](images/topology-optimized-output.png) |
+| *Original LCA design-space drawing, including the interface locations and dimensions.* | *Topology-optimized structural result in ANSYS. A final verified production part is not claimed.* |
+
+The images are checked into this repository so they remain viewable without access to the original slide deck.
+
 ## 1. Engineering problem
 The lower control arm (LCA) must transfer loads between the front suspension, chassis, damper/eye bolt, and upright. The design challenge is to identify removable material without compromising the geometric and mechanical interfaces that cannot change.
 
