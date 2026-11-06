@@ -24,7 +24,7 @@ The **18-layer configuration** reached **31.25 MPa** in the reported micro-tensi
 ### Research communication
 The work was presented at **UNERD 2026** and received **third place** in the presentation category.
 
-[UNERD research slides](https://docs.google.com/presentation/d/1KgYZRYe65nSL_JaR90hYRnEKhB3bIzOTMAVmGraeXac/edit) · [Research abstract](https://docs.google.com/document/d/10lFM6BtJsbadT2rCRLaYe0QPh6fSfQvwGisi-wxlZFA/edit)
+[UNERD research slides](https://docs.google.com/presentation/d/1KgYZRYe65nSL_JaR90hYRnEKhB3bIzOTMAVmGraeXac/edit) 
 
 ## Research stream 2 — Carbon-fibre/epoxy nanocomposites with halloysite nanotubes
 
