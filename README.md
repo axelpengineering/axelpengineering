@@ -5,30 +5,16 @@ Mechanical Engineering student at the University of Toronto pursuing a Robotics 
 Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
 Contact me at: 📩 axel.pena@mail.utoronto.ca
 
-## 🔬 Research Experience — Multifunctional Composites Manufacturing Laboratory (MCML)
+## 🔬 Research Experience — MCML
 
-**Undergraduate Researcher | University of Toronto | 2026–present**  
-Research in polymer composites, bio-inspired architectures, materials characterization, and manufacturing under the supervision of Prof. Patrick C. Lee and Rafaela Aguiar.
-
-### Nacre-Inspired Polypropylene / Graphene Nanoplatelet Multilayers
-- Fabricated hierarchical **PP/GnP** composite specimens with **1, 6, 18, 72, and 864 layers** using stacking and hot-pressing workflows.
-- Investigated the influence of layer architecture and thermal processing on microstructure, crystallization, and mechanical response using **microscopy, micro-tensile testing, and DSC**.
-- The **18-layer configuration reached 31.25 MPa** in the reported micro-tensile assessment. This is a project-specific test result, not a generalized material-property claim.
-- Presented the work at **UNERD 2026**, where the presentation placed **third**.
-
-[Research presentation (Google Slides)](https://docs.google.com/presentation/d/1KgYZRYe65nSL_JaR90hYRnEKhB3bIzOTMAVmGraeXac/edit) · [Research abstract](https://docs.google.com/document/d/10lFM6BtJsbadT2rCRLaYe0QPh6fSfQvwGisi-wxlZFA/edit)
-
-### Carbon-Fibre / Epoxy Nanocomposites with Halloysite Nanotubes
-- Supported composite fabrication with **sonication, vacuum degassing, spraying, layup, and hot pressing**.
-- Worked on processing consistency and production throughput in an experimental laboratory setting.
-
-[MCML engineering notebook (research notes)](https://docs.google.com/document/d/1xczHEoXqRtl_8zxZsk3UIRI89uSopUQEptTIAZ2h39g/edit)
-
-> Selected laboratory material is linked for technical context; access may depend on the source documents' sharing permissions. Group research is described as collaborative work.
-
----
+Undergraduate researcher at U of T's Multifunctional Composites Manufacturing Laboratory. [View the MCML research portfolio →](research/MCML/README.md)
 
 ## 🚀 Featured Projects
+*Topology Optimization & Structural Design*
+- 🏎️ [Lower Control Arm Topology Optimization — Blue Sky Solar](projects/topology-optimization/README.md)
+
+  CATIA design-space modelling, ANSYS multi-load-case structural analysis, and SpaceClaim geometry cleanup for a suspension lower control arm. **Design study — final weight savings not yet verified.**
+
 *Composites, Structural-Fabrication*
 - 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
 
