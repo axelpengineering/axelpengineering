@@ -5,9 +5,9 @@ Mechanical Engineering student at the University of Toronto pursuing a Robotics 
 Check out my [resume](EngineeringMASTERResume.pdf) or [connect on LinkedIn](https://www.linkedin.com/in/axel-pena-hernandez-907150265/)!
 Contact me at: 📩 axel.pena@mail.utoronto.ca
 
-## 🔬 Research Experience — MCML
+## 🔬 Research Experience
 
-Undergraduate researcher at U of T's Multifunctional Composites Manufacturing Laboratory. [View the MCML research portfolio →](research/MCML/README.md)
+[MCML — Multifunctional Composites Manufacturing Laboratory](research/MCML/README.md)
 
 ## 🚀 Featured Projects
 *Topology Optimization & Structural Design*
