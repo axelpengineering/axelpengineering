@@ -15,6 +15,11 @@ Contact me at: 📩 axel.pena@mail.utoronto.ca
 
   CATIA design-space modelling, ANSYS multi-load-case structural analysis, and SpaceClaim geometry cleanup for a suspension lower control arm. **Design study — final weight savings not yet verified.**
 
+*Early-Stage Design & Mechanisms*
+- ☀️ [TAB Hinge & Charge Stand — Blue Sky Solar](projects/tab-hinge-charge-stand/README.md)
+
+  Defining the solar car's top-aerobody opening problem, requirements, clearance constraints and benchmark concepts. **Concept stage — no selected mechanism or validated design yet.**
+
 *Composites, Structural-Fabrication*
 - 📦 [PPT-Composite-Box-Design:](https://github.com/axelpengineering/PPT-Composite-Box-Design)
 
