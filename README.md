@@ -9,6 +9,14 @@ Contact me at: 📩 axel.pena@mail.utoronto.ca
 
 [MCML — Multifunctional Composites Manufacturing Laboratory](research/MCML/README.md)
 
+## 🤖 Independent Software — In Development
+
+**Intern Jit — Local AI Internship Application Assistant** *(private source; actively developing)*
+
+A Windows desktop application I am designing and building with Python and PySide6 to streamline internship applications. It uses locally run Ollama/Qwen models to evaluate how documented experiences and skills relate to a job posting, then prepares reviewable resume and cover-letter drafts. The workflow emphasizes **human approval before final documents are saved**, with editable Word files, PDF previews, a skills inventory, and a guided review process. The interface features an animated 3D robot and an underwater/aurora visual theme.
+
+*The project is in active development. Source code is not yet public while I finish testing, documentation, privacy safeguards, and third-party license review.*
+
 ## 🚀 Featured Projects
 *Topology Optimization & Structural Design*
 - 🏎️ [Lower Control Arm Topology Optimization — Blue Sky Solar](projects/topology-optimization/README.md)
